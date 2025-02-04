@@ -5,8 +5,6 @@ import { Color, TextureLoader } from 'three';
 import { useLoader } from '@react-three/fiber';
 
 export const Experience = () => {
-  const texture = useLoader(TextureLoader, './underwater.jpg');
-
   return (
     <>
       <Sky

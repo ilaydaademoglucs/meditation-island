@@ -37,14 +37,14 @@ This project was also a way for me to learn more about 3D web development. I wan
 ## 🎮 How to Run Locally
 
 ```sh
-### **1️⃣ Clone the Repository**
+**1️⃣ Clone the Repository**
 git clone https://github.com/ilaydaademoglucs/meditation-island.git
 cd meditation-island
 
-### **2️⃣ Install Dependencies**
+**2️⃣ Install Dependencies**
 yarn install
 
-### **3️⃣ Run the Development Server**
+**3️⃣ Run the Development Server**
 yarn dev
 ```
 

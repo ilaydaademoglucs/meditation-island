@@ -8,16 +8,16 @@
 }
 
 .loader {
-  position: fixed; /* Fixed position to overlay the entire viewport */
-  left: 50%; /* Horizontal center */
-  top: 50%; /* Vertical center */
-  transform: translate(-50%, -50%); /* Adjust position to truly center the element */
+  position: fixed; 
+  left: 50%;
+  top: 50%; 
+  transform: translate(-50%, -50%);
   width: fit-content;
   font-size: 40px;
   font-family: system-ui, sans-serif;
   font-weight: bold;
   text-transform: uppercase;
-  color: transparent; /* Transparent text so that the stroke is visible */
+  color: transparent; 
   -webkit-text-stroke: 1px #000;
   background:
     conic-gradient(from -135deg at 100% 50%, #000000 90deg, transparent 0) text no-repeat,

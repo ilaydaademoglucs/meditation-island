@@ -18,7 +18,6 @@ This project was also a way for me to learn more about 3D web development. I wan
 -  🐠 Marine Life – Fishes, jellyfish, mermaid and more.
 -  🧘‍♀️ Meditation Time – 5 minutes of mindful time.
 -  ⛵ Floating Elements – To bring a dynamic feel.
--  🔥 Campfire Scene – An interactive fire with fire crackling sound effects.
 -  🌅 Sky & Sun System – A dynamic sky and sun.
 
 ## 🚀 Technologies Used

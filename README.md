@@ -1,4 +1,6 @@
 # **3D Meditation Island** 🏝️
+## 🚀 Live Demo
+Deployed on Vercel: https://meditation-island.vercel.app/
 
 ## 📌 About the Project
 

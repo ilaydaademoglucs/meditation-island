@@ -3,7 +3,7 @@
 #root {
   width: 100vw;
   height: 100vh;
-  background: url('./underwater.jpg') no-repeat center center fixed;
+  background: url('/underwater.jpg') no-repeat center center fixed;
   background-size: cover;
 }
 

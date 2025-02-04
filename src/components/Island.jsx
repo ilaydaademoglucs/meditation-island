@@ -1,6 +1,6 @@
 /**
  * Island Component
- * Created & optimized by Ilayda Ademoglu
+ * Created by Ilayda Ademoglu
  * Date: 4/02/2025
  */
 
@@ -26,7 +26,6 @@ import { AnimatedFire } from './AnimatedFire';
 import { FloatingShip } from './FloatingShip';
 import { Jellyfish } from './Jellyfish';
 import { SingingBowl } from './SingingBowl';
-import { SlavicCottage } from './SlavicCottage';
 import { SwimmingDude } from './SwimmingDude';
 import { Mermaid } from './Mermaid_wip';
 
@@ -927,7 +926,6 @@ export function Island(props) {
             <FloatingShip />
             <Jellyfish />
             <SingingBowl singingBowlRef={singingBowlRef} onClick={handleSingingBowlClick} />
-            <SlavicCottage />
             <SwimmingDude />
             <Mermaid onClick={handleMermaidClick} />
             <PurpleSeashell shellRef={seashellRef} onClick={handleShellClick} />

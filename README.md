@@ -1,4 +1,6 @@
 # **3D Meditation Island** 🏝️
+## 🚀 Live Demo
+Deployed on Vercel: https://meditation-island.vercel.app/
 
 ## 📌 About the Project
 
@@ -12,12 +14,12 @@ This project was also a way for me to learn more about 3D web development. I wan
 
 ## Features
 -  🌊 Dynamic 3D Island – Created using Three.js and Sketchfab models.
--  🎵 Relaxing Sound Effects – Click on objects like the Tibetan singing bowl, fire, or seashells to hear meditation sounds.
--  🐠 Animated Marine Life – Fishes, jellyfish, mermaid and more stuff 
--  🧘‍♀️ Meditation Time – A peaceful addition to the island and 5 minutes of mindful time.
--  ⛵ Floating Ships & Elements – Bringing a lively and dynamic feel.
--  🔥 Campfire Scene – An interactive fire with realistic effects.
--  🌅 Sky & Sun System – A dynamic sky and sun that help create a perfect environment for relaxation.
+-  🎵 Sound Effects – Click on objects like the Tibetan singing bowl, fire, or seashells to hear meditation sounds.
+-  🐠 Marine Life – Fishes, jellyfish, mermaid and more.
+-  🧘‍♀️ Meditation Time – 5 minutes of mindful time.
+-  ⛵ Floating Elements – To bring a dynamic feel.
+-  🔥 Campfire Scene – An interactive fire with fire crackling sound effects.
+-  🌅 Sky & Sun System – A dynamic sky and sun.
 
 ## 🚀 Technologies Used
 
@@ -35,14 +37,14 @@ This project was also a way for me to learn more about 3D web development. I wan
 ## 🎮 How to Run Locally
 
 ```sh
-### **1️⃣ Clone the Repository**
+**1️⃣ Clone the Repository**
 git clone https://github.com/ilaydaademoglucs/meditation-island.git
 cd meditation-island
 
-### **2️⃣ Install Dependencies**
+**2️⃣ Install Dependencies**
 yarn install
 
-### **3️⃣ Run the Development Server**
+**3️⃣ Run the Development Server**
 yarn dev
 ```
 

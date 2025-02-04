@@ -1,9 +1,3 @@
-/**
- * Island Component
- * Created by Ilayda Ademoglu
- * Date: 4/02/2025
- */
-
 import React, { useEffect, useRef, useState } from 'react';
 import { useGLTF } from '@react-three/drei';
 import { useFrame, useThree } from '@react-three/fiber';

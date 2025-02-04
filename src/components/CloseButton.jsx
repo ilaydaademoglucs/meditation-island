@@ -42,7 +42,7 @@ const CancelButton = ({ onClick }) => {
         onMouseEnter={() => gsap.to(buttonRef.current, { scale: 1.1, duration: 0.2 })}
         onMouseLeave={() => gsap.to(buttonRef.current, { scale: 1, duration: 0.2 })}
       >
-        Click to quit sound
+        Go back
       </button>
     </Html>
   );

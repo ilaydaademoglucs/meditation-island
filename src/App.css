@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+#root {
+  width: 100vw;
+  height: 100vh;
+  background: url('./underwater.jpg') no-repeat center center fixed;
+  background-size: cover;
+}
+
+.loader {
+  position: fixed; /* Fixed position to overlay the entire viewport */
+  left: 50%; /* Horizontal center */
+  top: 50%; /* Vertical center */
+  transform: translate(-50%, -50%); /* Adjust position to truly center the element */
+  width: fit-content;
+  font-size: 40px;
+  font-family: system-ui, sans-serif;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: transparent; /* Transparent text so that the stroke is visible */
+  -webkit-text-stroke: 1px #000;
+  background:
+    conic-gradient(from -135deg at 100% 50%, #000000 90deg, transparent 0) text no-repeat,
+    conic-gradient(from -135deg at 1lh 50%, transparent 90deg, #000000 0) text no-repeat;
+  animation: l6 2s linear infinite;
+}
+
+.loader:before {
+  content: 'Meditation Island';
+}
+
+@keyframes l6 {
+  0% {
+    background-size: 0 200%;
+    background-position:
+      0 0,
+      100% 0;
+  }
+  50% {
+    background-size: calc(60% + 0.5lh) 200%;
+    background-position:
+      0 0,
+      100% 0;
+  }
+  50.01% {
+    background-size: calc(60% + 0.5lh) 200%;
+    background-position:
+      0 100%,
+      100% 100%;
+  }
+  100% {
+    background-size: 0 200%;
+    background-position:
+      0 100%,
+      100% 100%;
+  }
+}

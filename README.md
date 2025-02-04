@@ -2,7 +2,7 @@
 ## 🚀 Live Demo
 Deployed on Vercel: https://meditation-island.vercel.app/
 
-## 📌 About the Project
+## About the Project
 
 3D Meditation Island is an interactive visual environment that I built with Three.js, React Three Fiber, and Drei. It allows you to explore the island, interact with various meditation elements, and enjoy various sounds for relaxation.
 
@@ -20,7 +20,7 @@ This project was also a way for me to learn more about 3D web development. I wan
 -  ⛵ Floating Elements – To bring a dynamic feel.
 -  🌅 Sky & Sun System – A dynamic sky and sun.
 
-## 🚀 Technologies Used
+## Technologies Used
 
 | Technology | Purpose |
 |------------|---------|
@@ -33,7 +33,7 @@ This project was also a way for me to learn more about 3D web development. I wan
 
 ---
 
-## 🎮 How to Run Locally
+## How to Run Locally
 
 ```sh
 **1️⃣ Clone the Repository**

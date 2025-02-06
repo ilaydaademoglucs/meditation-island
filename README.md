@@ -1,4 +1,4 @@
-# **3D Meditation Island** 🏝️
+# **3D Meditation Island** 
 ## 🚀 Live Demo
 Deployed on Vercel: https://meditation-island.vercel.app/
 
@@ -13,12 +13,11 @@ The ocean, sky, and nature elements in this island are inspired by real places t
 This project was also a way for me to learn more about 3D web development. I wanted to figure out how to make interactive objects, animations, and a natural-looking world inside a web browser.
 
 ## Features
--  🌊 Dynamic 3D Island – Created using Three.js and Sketchfab models.
--  🎵 Sound Effects – Click on objects like the Tibetan singing bowl, fire, or seashells to hear meditation sounds.
--  🐠 Marine Life – Fishes, jellyfish, mermaid and more.
--  🧘‍♀️ Meditation Time – 5 minutes of mindful time.
--  ⛵ Floating Elements – To bring a dynamic feel.
--  🌅 Sky & Sun System – A dynamic sky and sun.
+- Dynamic 3D Island – Created using Three.js and Sketchfab models.
+- Sound Effects – Click on objects like the Tibetan singing bowl, fire, or seashells to hear meditation sounds.
+- Marine Life – Fishes, jellyfish, mermaid and more.
+- Meditation Time – 5 minutes of mindful time.
+- Sky & Sun System – A dynamic sky and sun.
 
 ## Technologies Used
 
